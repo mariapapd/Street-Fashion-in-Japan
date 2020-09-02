@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 <!DOCTYPE html>
-<html>
-<head>
-<h1>Streetfashion in Japan</h1>
+    <html>
+        <head>
+        <h1>Street Fashion in Japan</h1>
+        </head>
+     </html>
+
+
