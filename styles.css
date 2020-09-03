@@ -2,3 +2,12 @@ h1{
     color: pink;
     text-align: center;
 }
+/* Modify the backgorund color */ 
+.navbar-custom { 
+    background-color: #FBE4FF; 
+} 
+/* Modify brand and text color */ 
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: white; 
+} 
