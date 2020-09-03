@@ -8,6 +8,7 @@ h1{
 } 
 /* Modify brand and text color */ 
 .navbar-custom .navbar-brand, 
-.navbar-custom .navbar-text { 
+.navbar-custom .navbar-text
+{ 
     color: white; 
 } 
