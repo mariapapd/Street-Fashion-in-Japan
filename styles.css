@@ -22,4 +22,4 @@ img {
   }
   button{font-family:Century Schoolbook;}
   div{font-family:Century Schoolbook;}
- 
+  .floatRightClear{float:right;clear:right;margin-left:20px}
