@@ -12,3 +12,8 @@ h1{
 { 
     color: white; 
 } 
+
+/* Modify the background color */
+main {
+    background-color: green;
+}
