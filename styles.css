@@ -29,3 +29,11 @@ img {
    color: #000 !important;
    font-family: Century !important;
 }
+
+.floatLeftClear{float:left;clear:left;margin-right:20px}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
